@@ -22,7 +22,10 @@ Security is a critical aspect of the project. Users must be authenticated to acc
 
 The project is ideal for deployment in academic, corporate, or remote work environments where real-time collaboration is essential. It demonstrates a combination of web development, real-time communication, backend logic, and database integration, making it a powerful full-stack application.
 
-*OUTPUT:
+*OUTPUT:![Image](https://github.com/user-attachments/assets/08691188-61b2-4ca6-8101-65674dddf65a)
+
+
+
 
 # Getting Started with Create React App
 
